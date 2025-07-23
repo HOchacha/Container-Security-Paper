@@ -18,7 +18,7 @@
 - [KEY PAPER] Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups   
 - [KEY PAPER] Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization   
 - [KEY PAPER] Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications
-- Lost along the Way - Understanding and Mitigating Path-Misresolution Threats to Container Isolation
+- Lost along the Way: Understanding and Mitigating Path-Misresolution Threats to Container Isolation
 
 ### ACM CCSW (workshop)
 - Contextualizing System Calls in Containers for Anomaly-Based Intrusion Detection
